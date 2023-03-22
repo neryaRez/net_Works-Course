@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "pcap.h": "c",
+        "stdio.h": "c",
+        "inet.h": "c",
+        "ethernet.h": "c",
+        "socket.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
